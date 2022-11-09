@@ -1,0 +1,8 @@
+.mainContentItem{
+margin-bottom: 3rem;
+}
+.productCard{
+    margin: 0.4rem;
+    max-height: 500px;
+    min-height: 449px;
+}

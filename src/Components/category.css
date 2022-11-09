@@ -1,0 +1,16 @@
+.products-breadcrumb{
+    height:50px;
+}
+.empty-category{
+   font-size: 50px;
+   justify-content: center;
+   display: flex;
+}
+.productTitle{
+    min-width: fit-content;
+}
+.product_details{   
+    margin: 0.5rem;
+    max-height: 550px;
+    min-height: 549px;
+}

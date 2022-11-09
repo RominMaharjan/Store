@@ -1,0 +1,17 @@
+.error-text{
+    color:red;
+}
+.form-box{
+   padding:15px;
+}
+.link-cls{
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: end;
+}
+.link-fir{
+    padding-top: 10px;
+}
+.linking{
+    color:red;
+}

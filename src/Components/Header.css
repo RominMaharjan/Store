@@ -1,0 +1,44 @@
+.fa-user {
+  text-align: center;
+}
+/* .user-btn{
+    border: none;
+    background-color: white;
+  } */
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  right: 0;
+  background-color: #ffffff;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(102, 97, 97, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.user-btn {
+  color: black;
+  padding: 12px 16px;
+  min-width: 159px;
+  text-decoration: none;
+  display: block;
+  border: none;
+  background-color: white;
+}
+.user-btn:hover {
+  background-color: rgb(212, 155, 155);
+}
+
+.dropdown-content a:hover {
+  background-color: rgb(212, 155, 155);
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}

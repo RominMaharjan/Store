@@ -1,0 +1,44 @@
+.box{
+    width:500px;
+    height:500px;
+    background-color: black;
+}
+
+
+.pro-img{
+border-radius: 50%;
+width:40%;
+}
+
+.wrapper{
+    display: flex;
+    margin-top: 15px;
+    width:80%;
+    height: 200px;
+}
+.prof-right{
+    /* display: flex;
+    justify-content: flex-start; */
+    align-items: center;
+    padding:30px;
+}
+.details{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    margin-left: 25rem;
+
+}
+
+.details p{
+margin-bottom: 20px;
+}
+
+.prof-btn{
+    margin-left: 10rem;
+   
+}
+.link-btn{
+    color: green;
+}
+
